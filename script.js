@@ -8,5 +8,4 @@ $(document).ready(function() {
 			sects.eq(i).removeClass("hidden");
 		})
 	}
-
 })  
